@@ -3,6 +3,8 @@ Comment Block
 [
 	This takes input in form xy+ or xy-
 	It does not support any other operations, and it does not support infix notation (e.g. x+y)
+	It also does not support digits >9
+	It supports answers > 9 or < 0 but it cannot meaningfully print them
 ]
 
 Read 2 characters and subtract 48 (the beginning of the digits in ASCII)
