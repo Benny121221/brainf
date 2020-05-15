@@ -1,0 +1,1 @@
+This repository is entirely a joke. However, brainf---, as strange a language as it is, is very good for teaching skills not present in higher level languages (for good reason).
