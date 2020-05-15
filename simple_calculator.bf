@@ -20,8 +20,6 @@ Read character and subtract 43 (Addition sign)
 		< First operand
 		->- Substract one from both operands
 	] Loop again if second operand nonzero
-	++++++++++++++++++++++++++++++++++++++++++++++++ Add 48
-	, Taking a null input lets us out the loop
 	The addition will now try and add the two operands, but the second operand = 0
 	This means it will output the result of the subtraction
 ]Zero: Addition sign +
